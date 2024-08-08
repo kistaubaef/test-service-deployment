@@ -24,7 +24,7 @@ pipeline {
                         ]
                     ) {
                         sh """
-                    ./build.sh ${env.REPO} ${env.USERNAME} ${env.PASSWORD}
+                    bash ./build.sh ${env.REPO} ${env.USERNAME} ${env.PASSWORD}
                     """
                     }
             }
