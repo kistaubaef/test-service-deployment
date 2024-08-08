@@ -23,9 +23,9 @@ pipeline {
                             string(credentialsId: 'secret_password', variable: 'PASSWORD'),
                         ]
                     ) {
-                        sh """
-                    bash ./build.sh ${env.REPO} ${env.USERNAME} ${env.PASSWORD}
-                    """
+                        sh '''
+                        bash ./build.sh "$REPO" "$USERNAME" "$PASSWORD"
+                    '''
                     }
             }
         }
