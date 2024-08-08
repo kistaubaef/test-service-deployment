@@ -1,0 +1,10 @@
+/home/niall/jenkins/test-service-ssl-build/src/main/java/edu/bigdata/training/testservice/TestService.java
+/home/niall/jenkins/test-service-ssl-build/src/main/java/edu/bigdata/training/testservice/config/WebSecurityConfig.java
+/home/niall/jenkins/test-service-ssl-build/src/main/java/edu/bigdata/training/testservice/controller/TestServiceController.java
+/home/niall/jenkins/test-service-ssl-build/src/main/java/edu/bigdata/training/testservice/config/IgniteConf.java
+/home/niall/jenkins/test-service-ssl-build/src/main/java/edu/bigdata/training/testservice/controller/model/Person.java
+/home/niall/jenkins/test-service-ssl-build/src/main/java/edu/bigdata/training/testservice/service/TestBusinessLogicService.java
+/home/niall/jenkins/test-service-ssl-build/src/main/java/edu/bigdata/training/testservice/dao/TestServiceRepository.java
+/home/niall/jenkins/test-service-ssl-build/src/main/java/edu/bigdata/training/testservice/model/PersonEntity.java
+/home/niall/jenkins/test-service-ssl-build/src/main/java/edu/bigdata/training/testservice/config/ServiceConf.java
+/home/niall/jenkins/test-service-ssl-build/src/main/java/edu/bigdata/training/testservice/service/TestServiceUserDetailsService.java
